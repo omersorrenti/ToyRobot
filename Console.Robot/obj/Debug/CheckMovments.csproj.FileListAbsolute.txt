@@ -1,0 +1,7 @@
+C:\Projects\test\testing\CheckMovments\CheckMovments\bin\Debug\CheckMovments.exe.config
+C:\Projects\test\testing\CheckMovments\CheckMovments\bin\Debug\CheckMovments.exe
+C:\Projects\test\testing\CheckMovments\CheckMovments\bin\Debug\CheckMovments.pdb
+C:\Projects\test\testing\CheckMovments\CheckMovments\obj\Debug\CheckMovments.csprojAssemblyReference.cache
+C:\Projects\test\testing\CheckMovments\CheckMovments\obj\Debug\CheckMovments.csproj.CoreCompileInputs.cache
+C:\Projects\test\testing\CheckMovments\CheckMovments\obj\Debug\CheckMovments.exe
+C:\Projects\test\testing\CheckMovments\CheckMovments\obj\Debug\CheckMovments.pdb

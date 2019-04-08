@@ -1,0 +1,17 @@
+C:\Projects\test\testing\CheckMovments\ToyRobot.TableSurface\bin\Debug\ToyRobot.TableSurface.dll
+C:\Projects\test\testing\CheckMovments\ToyRobot.TableSurface\bin\Debug\ToyRobot.TableSurface.pdb
+C:\Projects\test\testing\CheckMovments\ToyRobot.TableSurface\obj\Debug\ToyRobot.Table.csprojAssemblyReference.cache
+C:\Projects\test\testing\CheckMovments\ToyRobot.TableSurface\obj\Debug\ToyRobot.Table.csproj.CoreCompileInputs.cache
+C:\Projects\test\testing\CheckMovments\ToyRobot.TableSurface\obj\Debug\ToyRobot.TableSurface.dll
+C:\Projects\test\testing\CheckMovments\ToyRobot.TableSurface\obj\Debug\ToyRobot.TableSurface.pdb
+D:\Sviluppo\CheckMovments\LMG\CheckMovments\ToyRobot.TableSurface\bin\Debug\ToyRobot.TableSurface.dll
+D:\Sviluppo\CheckMovments\LMG\CheckMovments\ToyRobot.TableSurface\bin\Debug\ToyRobot.TableSurface.pdb
+D:\Sviluppo\CheckMovments\LMG\CheckMovments\ToyRobot.TableSurface\obj\Debug\ToyRobot.Table.csprojAssemblyReference.cache
+D:\Sviluppo\CheckMovments\LMG\CheckMovments\ToyRobot.TableSurface\obj\Debug\ToyRobot.Table.csproj.CoreCompileInputs.cache
+D:\Sviluppo\CheckMovments\LMG\CheckMovments\ToyRobot.TableSurface\obj\Debug\ToyRobot.TableSurface.dll
+D:\Sviluppo\CheckMovments\LMG\CheckMovments\ToyRobot.TableSurface\obj\Debug\ToyRobot.TableSurface.pdb
+C:\Projects\test\testing\ToyRobot.TableSurface\bin\Debug\ToyRobot.TableSurface.dll
+C:\Projects\test\testing\ToyRobot.TableSurface\bin\Debug\ToyRobot.TableSurface.pdb
+C:\Projects\test\testing\ToyRobot.TableSurface\obj\Debug\ToyRobot.Table.csproj.CoreCompileInputs.cache
+C:\Projects\test\testing\ToyRobot.TableSurface\obj\Debug\ToyRobot.TableSurface.dll
+C:\Projects\test\testing\ToyRobot.TableSurface\obj\Debug\ToyRobot.TableSurface.pdb
