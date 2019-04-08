@@ -6,7 +6,7 @@ In development I used the interfaces to have a low dependency between the classe
 
 I also added a test project, where I try to perform the main tests on the Robot component's methods.
 
-If necessary in ToyRoboot.Behavior.Test project,  install nutget packages:
+If necessary in ToyRoboot.Behavior.Test project,  install or restore nutget packages:
  - MSTest.TestAdapter 1.4.0
  - MSTest.TestFramework 1.4.0
  
